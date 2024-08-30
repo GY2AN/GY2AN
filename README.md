@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GY2AN
+- 👋 Hi, I’m Gyan
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on building websites
