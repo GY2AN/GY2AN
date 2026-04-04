@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyan
 
-I'm a **DevOps Engineer** passionate about building reliable, scalable cloud infrastructure.
+I'm a **Aspiring DevOps Engineer** passionate about building reliable, scalable cloud infrastructure.
 
 ---
 
@@ -41,22 +41,3 @@ I design and implement:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GY2AN&show_icons=true&theme=dark&hide=contribs,issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY2AN&layout=compact&theme=dark" />
-</p>
-
----
-
-## 💡 What I'm Currently Learning
-
-- [ ] Advanced Kubernetes patterns (Operators, StatefulSets)
-- [ ] Service mesh (Istio)
-- [ ] Multi-cloud infrastructure (AWS + Azure)
-- [ ] GitOps with ArgoCD
-
----
-
-### ⭐ If you find my projects useful, please give them a star!
