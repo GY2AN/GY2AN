@@ -43,55 +43,11 @@ I design and implement:
 
 ---
 
-## 📊 Featured Projects
-
-### 🔴 [Project 1: CI/CD Pipeline](#) 
-**Automated testing, building, and AWS deployment using GitHub Actions**
-```
-GitHub Actions → Docker Build → ECR Push → EC2 Deploy
-```
-- ⚡ 75% reduction in deployment time
-- 🔒 Automated security scanning
-- 📊 100% test coverage
-- 🚀 Zero-downtime deployments
-
-[View Repository](https://github.com/yourprofile/devops-cicd-project)
-
----
-
-### 🟢 [Project 2: Kubernetes + Helm](#)
-**Multi-tier application orchestration with monitoring**
-```
-3-Tier App → Kubernetes → Helm Charts → Prometheus + Grafana
-```
-- ⚙️ Auto-scaling (3 → 10+ pods)
-- 📈 99.9% uptime achieved
-- 🎯 Custom Helm charts for all environments
-- 📊 Real-time monitoring dashboards
-
-[View Repository](https://github.com/yourprofile/devops-kubernetes-project)
-
----
-
-### 🔵 [Project 3: Infrastructure as Code](#)
-**Production-grade AWS infrastructure with Terraform**
-```
-Terraform Modules → VPC/EKS/RDS → Remote State → CI/CD Deploy
-```
-- 🏗️ Complete infrastructure provisioning
-- 🔐 S3 remote state with DynamoDB locking
-- 📦 Reusable modules (compute, network, database)
-- 🚀 95% reduction in setup time
-
-[View Repository](https://github.com/yourprofile/devops-terraform-project)
-
----
-
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=dark&hide=contribs,issues)](https://github.com/yourprofile)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=dark&hide=contribs,issues)](https://github.com/GY2AN)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark)](https://github.com/yourprofile)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark)](https://github.com/GY2AN)
 
 ---
 
@@ -104,25 +60,4 @@ Terraform Modules → VPC/EKS/RDS → Remote State → CI/CD Deploy
 
 ---
 
-## 📞 Get In Touch
-
-I'm always open to discussing DevOps, cloud infrastructure, or career opportunities!
-
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@gmail.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## 🎯 Quick Links
-
-- 📘 [My Blog](https://yourblog.com) - DevOps articles and tutorials
-- 📚 [AWS Certification](https://aws.amazon.com/certification) - Currently pursuing
-- 🤝 [Open to Opportunities](mailto:your.email@gmail.com) - Junior DevOps / Cloud Engineer roles
-
----
-
 ### ⭐ If you find my projects useful, please give them a star!
-```
-Made with ❤️ by [Your Name]
-```
