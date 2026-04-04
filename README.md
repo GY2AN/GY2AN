@@ -43,11 +43,10 @@ I design and implement:
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=dark&hide=contribs,issues)](https://github.com/GY2AN)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark)](https://github.com/GY2AN)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GY2AN&show_icons=true&theme=dark&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY2AN&layout=compact&theme=dark" />
+</p>
 
 ---
 
